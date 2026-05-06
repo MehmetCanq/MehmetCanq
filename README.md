@@ -36,28 +36,26 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 ### 📊 Global Sistem Metrikleri
 
 <div align="center">
-  <!-- Ana İstatistikler -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF" />
+  <!-- Kırılmayı önlemek için stabil parametrelerle güncellendi -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
   
   <br/>
 
-  <!-- Dil İstatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
   
   <br/>
 
-  <!-- Aktivite Grafiği -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=dark&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" />
 </div>
 
 ---
 
-### 🏙️ Sistem Mimarisi (İnşa Süreci)
+### 🏙️ System Infrastructure Evolution
 
-Aşağıdaki mimari, sistem üzerinde yaptığım her bir kodlamanın (commit) oluşturduğu dijital şehri temsil eder:
+**[ISO-VIEW]** - Geliştirme süreçlerinin ve sistem büyümesinin izometrik mimari görselleştirmesi.
 
 <div align="center">
-  <!-- 3D Şehir Animasyonu: 'main' dalı üzerinden doğrudan erişim -->
+  <!-- 3D Şehir Animasyonu -->
   <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Architecture" />
 </div>
 
@@ -65,10 +63,9 @@ Aşağıdaki mimari, sistem üzerinde yaptığım her bir kodlamanın (commit) o
 
 ### 📡 Stratejik Projeler
 
-*   **💹 TraderBot V3:** Python ve Asyncio ile geliştirilmiş, Telegram entegrasyonlu borsa sinyal motoru.
-*   **📇 Kişi Rehberi:** PostgreSQL veri tutarlılığı odaklı, Django ve Vue.js mimarisine sahip yönetim sistemi.
-*   **🌐 History Personas:** Custom client-side routing içeren dinamik Single Page Application çalışması.
-*   **⚙️ SaaS Data Engine:** Tavily ve Gemini AI entegrasyonlu dinamik fiyatlandırma takip sistemi.
+*   **💹 TraderBot V3:** Python ve Asyncio ile geliştirilmiş borsa sinyal motoru.
+*   **📇 Kişi Rehberi:** PostgreSQL odaklı, Django ve Vue.js mimarisine sahip yönetim sistemi.
+*   **🌐 History Personas:** Custom routing içeren dinamik Single Page Application mimarisi.
 
 ---
 
