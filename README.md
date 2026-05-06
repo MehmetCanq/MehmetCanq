@@ -1,54 +1,105 @@
 <div align="center">
-  <h1>🚀 Mehmet Can Turan</h1>
-  <p><strong>Software Engineering Student | FinTech Enthusiast | Full-Stack Developer</strong></p>
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=MEHMET+CAN+TURAN;SYSTEM+ARCHITECT;FINTECH+ENGINEER;FULL-STACK+DEVELOPER" alt="Typing SVG" />
 
-  <!-- Profil Ziyaretçi Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=MehmetCanq&label=Profile%20Views&color=0e75b6&style=flat" alt="MehmetCanq" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MehmetCanq&label=SYSTEM%20ACCESS%20COUNT&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 🛡️ [KERNEL_INFO] - Yazılım Mühendisi Portfolyosu
 
-**Finansal teknoloji (FinTech)** ve **ölçeklenebilir full-stack sistemler** üzerine odaklanmış bir yazılımcıyım. Algoritmik ticaret botlarından, modern SPA mimarilerine kadar geniş bir yelpazede çözümler üretiyorum. Kod yazmayı sadece bir görev değil, bir mühendislik sanatı olarak görüyorum.
+**Finansal sistemler** ve **ölçeklenebilir mimariler** üzerine uzmanlaşmış bir geliştiriciyim. Algoritmik ticaret botlarından, modern SPA (Single Page Application) yapılarına kadar uzanan bir yelpazede "mühendislik sanatı" icra ediyorum. Kodumu sadece çalıştırmak için değil, optimize etmek ve geleceği inşa etmek için yazıyorum.
 
-*   🔭 **Şu an ne üzerinde çalışıyorum:** Python ile Bitcoin ve değerli madenler için gelişmiş sinyal botları.
-*   ⚡ **Odak Noktam:** Veritabanı optimizasyonu (PostgreSQL) ve yüksek performanslı backend mimarileri.
-*   🏎️ **İlgi Alanı:** Modern web estetiği ve otomotiv tasarımı dinamikleri.
-
----
-
-### 🛠️ Teknolojik Cephanelik (Tech Stack)
-
-| Kategori | Araçlar & Teknolojiler |
-| :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) |
-| **Veritabanı** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Bulut & DevOps** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
+- 🚀 **Uzmanlık Alanı:** Finansal Veri Analizi, Algoritmik Sinyal Motorları ve Modern Web Mimarileri.
+- 🏎️ **Estetik Tutkusu:** Yüksek performanslı sistemlerin yanı sıra otomotiv tasarımı ve modern landing page estetiğine odaklanıyorum.
+- 🛠️ **Mühendislik Yaklaşımı:** PostgreSQL veri güvenliği ile güçlendirilmiş, yüksek performanslı backend sistemleri.
 
 ---
 
-### 📊 GitHub Mühendislik İstatistikleri
+### ⚡ [TECH_ARSENAL] - Teknoloji Cephaneliği
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=tokyonight" />
+  <!-- Hareketli Teknoloji İkonları -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,cs,spring,django,postgres,gcp,digitalocean,flutter,vue,vite&perline=6" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Kayan Teknoloji Yağmuru (Marquee) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=tokyonight&hide_border=true&stroke=00D1FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 💼 Öne Çıkan Mühendislik Çalışmaları
+### 📂 [SYSTEM_SCAN] - Aktif Proje Dosyaları
 
-*   **💹 TraderBot V3:** Python tabanlı, Telegram entegreli algoritmik sinyal botu. XAU/USD ve BTC analizleri için tasarlandı.
-*   **📱 Kişi Rehberi:** Django (Backend) ve Vue.js (Frontend) mimarisi üzerine kurulu, PostgreSQL tabanlı full-stack yönetim sistemi.
-*   **🌐 History Personas:** Custom routing ve asenkron veri çekme mantığıyla inşa edilmiş Single Page Application (SPA).
+<details>
+  <summary><b>💹 ALGORITHMIC_TRADING_ENGINE (TraderBot V3)</b></summary>
+  <br />
+  <blockquote>
+    Bitcoin, Altın ve Gümüş piyasaları için geliştirilmiş yüksek frekanslı analiz ve sinyal motoru.
+  </blockquote>
+  <ul>
+    <li><b>Çekirdek:</b> Python tabanlı asenkron veri işleme.</li>
+    <li><b>Analiz:</b> XAU/USD, BTC ve Gümüş piyasa verileri.</li>
+    <li><b>İletişim:</b> Telegram Bot API üzerinden anlık sinyal iletimi.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📇 FULLSTACK_CONTACT_MANAGEMENT (KisiRehberi)</b></summary>
+  <br />
+  <blockquote>
+    PostgreSQL entegrasyonu ve modern Vue.js arayüzü ile donatılmış tam kapsamlı rehber yönetim sistemi.
+  </blockquote>
+  <ul>
+    <li><b>Backend:</b> Django Rest Framework mimarisi.</li>
+    <li><b>Veritabanı:</b> PostgreSQL (Veri tutarlılığı odaklı).</li>
+    <li><b>Frontend:</b> Vue.js 3 ve Vite ile yüksek hızda render.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🌐 SPA_DYNAMIC_ARCHITECTURE (History Personas)</b></summary>
+  <br />
+  <blockquote>
+    Custom routing ve asenkron veri çekme stratejileri içeren ileri düzey web projesi.
+  </blockquote>
+</details>
 
 ---
 
-### 📫 Benimle Bağlantı Kur
+### 📊 [METRICS] - Mühendislik İstatistikleri
 
-<div align="left">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" />
+      </td>
+      <td width="50%">
+         <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00D1FF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 [CONTRIBUTION_SNAKE] - Aktivite Animasyonu
+
+<div align="center">
+  <!-- Katkı grafiği üzerinden geçen yılan animasyonu -->
+  <img src="https://github.com/MehmetCanq/MehmetCanq/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="mailto:mehmetcan.turan66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -59,4 +110,4 @@
 
 <br />
 
-> "Kod, bir şiir gibi okunabilmelidir."
+> "Mükemmellik, eklenecek bir şey kalmadığında değil, çıkarılacak bir şey kalmadığında elde edilir."
