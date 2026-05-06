@@ -1,70 +1,82 @@
 <div align="center">
-  <!-- Dinamik Başlık -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=MEHMET+CAN+TURAN;SYSTEM+ARCHITECT;FINTECH+STRATEGIST;POSTGRESQL+EXPERT" alt="Typing SVG" />
+  <!-- Üst Düzey Terminal Başlığı -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=MEHMET+CAN+TURAN;SYSTEM+ARCHITECT;FINTECH+STRATEGIST;FULL-STACK+ENGINEER" alt="Typing SVG" />
 
-  <!-- Sistem Durumu Rozetleri (Asla Patlamaz) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Main_Language-Python-00D1FF?style=for-the-badge&logo=python&logoColor=black" />
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-00D1FF?style=for-the-badge&logo=postgresql&logoColor=black" />
-    <img src="https://img.shields.io/badge/Infrastructure-GCP-00D1FF?style=for-the-badge&logo=googlecloud&logoColor=black" />
+    <img src="https://img.shields.io/badge/DEVELOPER-POLYGLOT-00D1FF?style=for-the-badge&logo=codetriage&logoColor=black" />
+    <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-00D1FF?style=for-the-badge&logo=postgresql&logoColor=black" />
+    <img src="https://img.shields.io/badge/INFRA-CLOUD_NATIVE-00D1FF?style=for-the-badge&logo=googlecloud&logoColor=black" />
   </p>
 </div>
 
 ---
 
-### 🛰️ Engineering Overview
+### 🏛️ Mühendislik Profili ve Vizyon
 
-Karmaşık veri yapılarını ve yüksek performanslı backend sistemlerini modernize etmeye odaklı bir **Yazılım Mimarı**. Finansal teknoloji (FinTech) dikeyinde, algoritmik ticaret motorları ve asenkron veri işleme mimarileri geliştiriyorum.
+Karmaşık veri yapılarını ve yüksek performanslı backend mimarilerini modernize etmeye odaklı bir **Sistem Mimarıyım**. Finansal teknoloji (FinTech) dikeyinde, algoritmik ticaret sistemlerinden ölçeklenebilir tam kapsamlı dijital çözümlere kadar geniş bir yelpazede mühendislik disiplini uyguluyorum.
 
-*   **⚡ Logic Core:** Python ve Java tabanlı düşük gecikmeli piyasa analiz sistemleri.
-*   **🔗 Data Integrity:** PostgreSQL ile optimize edilmiş, yüksek erişilebilirlikli veri yönetimi stratejileri.
-*   **🌐 Modern Stack:** Vue.js 3 ve Flutter ile uçtan uca full-stack ve cross-platform çözümler.
+*   **⚡ Çekirdek Sistemler:** Python ve Java ile geliştirilmiş asenkron piyasa analiz motorları.
+*   **📊 FinTech Odak:** Bitcoin, Altın ve Gümüş piyasaları için gerçek zamanlı veri madenciliği ve sinyal algoritmaları.
+*   **🔗 Veri Güvenliği:** PostgreSQL tabanlı, yüksek erişilebilirlikli ve optimize edilmiş veri mimarileri.
+*   **📱 Modern UI/UX:** Flutter ve Vue.js kullanarak hızlı ve kullanıcı odaklı cross-platform deneyimleri.
 
 ---
 
-### 🛠️ Expertise Matrix
+### 🛠️ Teknolojik Cephanelik (Expertise Matrix)
 
-| Layer | Technologies |
+| Katman | Teknolojiler |
 | :--- | :--- |
-| **Backend** | `Python` `Java` `C#` `JavaScript` `Node.js` |
-| **Frameworks** | `Spring Boot` `Django` `Flutter` `Vue.js` |
-| **Storage** | `PostgreSQL` `MySQL` `MongoDB` `Redis` |
-| **DevOps** | `Docker` `DigitalOcean` `Google Cloud` `Tavily AI` |
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Cloud & Tools** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-### 🏙️ System Evolution (Isometric View)
-
-**[ANALYSIS_MODE: ACTIVE]** — Geliştirme süreçlerinin ve sistem büyümesinin 3D mimari görselleştirmesi.
+### 📊 Global Sistem Metrikleri
 
 <div align="center">
-  <!-- 3D Şehir Animasyonu (Lokal Dosya - En Sağlam Yöntem) -->
-  <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Architecture" />
-</div>
-
----
-
-### 📈 Metrics Snapshot (High Density)
-
-<div align="center">
-  <!-- Büyük kartlar yerine küçük ve hızlı yüklenen rozet metrikleri -->
-  <img src="https://img.shields.io/github/stars/MehmetCanq?style=flat-square&color=00D1FF&labelColor=000000" />
-  <img src="https://img.shields.io/github/forks/MehmetCanq?style=flat-square&color=00D1FF&labelColor=000000" />
-  <img src="https://img.shields.io/github/repo-size/MehmetCanq/MehmetCanq?style=flat-square&color=00D1FF&labelColor=000000" />
+  <!-- Stabil parametrelerle güncellenmiş metrik kartları -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
+  
   <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
+  
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=dark&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" />
 </div>
 
 ---
 
-### 📫 Contact & Connectivity
+### 🏙️ System Infrastructure Evolution
+
+**[ISO-VIEW]** — Yazılım geliştirme süreçlerinin ve sistem büyümesinin izometrik mimari görselleştirmesi.
+
+<div align="center">
+  <!-- 3D Şehir Animasyonu: 'main' dalı üzerinden doğrudan erişim -->
+  <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Architecture" />
+</div>
+
+---
+
+### 📡 Stratejik Projeler
+
+*   **💹 TraderBot V3:** Python ve Asyncio ile geliştirilmiş borsa sinyal analiz motoru.
+*   **📇 Kişi Rehberi:** PostgreSQL veri güvenliği odaklı, Django ve Vue.js mimarisine sahip kurumsal yönetim sistemi.
+*   **🌐 History Personas:** Custom client-side routing içeren dinamik Single Page Application çalışması.
+
+---
+
+### 📫 İletişim & Erişim
 
 <div align="center">
   <a href="mailto:mehmetcan.turan66@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-CONTACT-00D1FF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/EMAIL-mehmetcan.turan66@gmail.com-00D1FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/MehmetCanq">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-000000?style=for-the-badge&logo=github&logoColor=00D1FF" />
+    <img src="https://img.shields.io/badge/GITHUB-MehmetCanq-000000?style=for-the-badge&logo=github&logoColor=00D1FF" />
   </a>
 </div>
 
@@ -72,5 +84,5 @@ Karmaşık veri yapılarını ve yüksek performanslı backend sistemlerini mode
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-  <p><i>"Engineered with Precision by Mehmet Can Turan."</i></p>
+  <p><i>"Quality is not an act, it is a habit." — Precise Engineering by Mehmet Can Turan.</i></p>
 </div>
