@@ -35,18 +35,18 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 
 ### 📊 Global Sistem Metrikleri
 
+<!-- BOZUK OLAN KISMI FARKLI BİR SERVİSLE (streak-stats) DEĞİŞTİRDİM -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <!-- Temayı 'transparent' yaparak o pembe/kırık kutu hatasını önlüyoruz -->
-        <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=FFFFFF" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏙️ Sistem Mimarisi (İnşa Süreci)
+
+<div align="center">
+  <!-- 3D Şehir Animasyonu: Commitlerinle şehir inşa edilir -->
+  <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/output/github-contribution-grid-snake.svg" alt="City Builder Animation" />
 </div>
 
 ---
