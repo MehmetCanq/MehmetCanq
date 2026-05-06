@@ -11,32 +11,32 @@
 
 ---
 
-### 🏗️ Mühendislik Profili ve Vizyon
+### 🏗️ Profesyonel Profil ve Mühendislik Vizyonu
 
-Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** üzerine uzmanlaşmış bir mühendisim. Algoritmik ticaret sistemlerinden, yüksek trafikli full-stack uygulamalara kadar her projede **performans, güvenlik ve ölçeklenebilirlik** prensiplerini temel alıyorum.
+Karmaşık veri yapıları ve yüksek performanslı backend mimarileri üzerine uzmanlaşmış bir **Sistem Mimarıyım**. Finansal teknoloji (FinTech) dikeyinde, algoritmik ticaret sistemlerinden ölçeklenebilir tam kapsamlı web çözümlerine kadar geniş bir yelpazede mühendislik disiplini uyguluyorum.
 
-*   **⚡ Core Systems:** Python ve Java ile inşa edilen asenkron piyasa analiz motorları.
-*   **📊 FinTech Focus:** Bitcoin, Altın ve Gümüş piyasaları için gerçek zamanlı veri madenciliği ve sinyal algoritmaları.
-*   **🔗 Reliable Data:** PostgreSQL ile optimize edilmiş yüksek erişilebilirlikli veri mimarileri.
-*   **📱 Modern UI/UX:** Flutter ve Vue.js 3 kullanarak modern ve hızlı cross-platform deneyimleri.
+*   **⚡ Çekirdek Sistemler:** Python ve Java ile geliştirilmiş asenkron piyasa analiz motorları.
+*   **📊 FinTech Odak:** Bitcoin, Altın ve Gümüş piyasaları için gerçek zamanlı veri madenciliği ve sinyal algoritmaları.
+*   **🔗 Veri Güvenliği:** PostgreSQL tabanlı, yüksek erişilebilirlikli ve optimize edilmiş veri mimarileri.
+*   **📱 Modern UI/UX:** Flutter ve Vue.js 3 kullanarak modern, hızlı ve kullanıcı odaklı cross-platform deneyimleri.
 
 ---
 
-### 🛠️ Teknolojik Cephanelik (Expertise Matrix)
+### 🛠️ Teknolojik Cephanelik
 
 | Katman | Teknolojiler |
 | :--- | :--- |
-| **Backend & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Backend & Mantık** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | **Frameworks** | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Cloud & Tools** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Veritabanı** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Bulut & Araçlar** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
 ### 📊 Global Sistem Metrikleri
 
 <div align="center">
-  <!-- Kırılmayı önlemek için stabil parametrelerle güncellendi -->
+  <!-- Stabil parametrelerle güncellenmiş metrik kartları -->
   <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
   
   <br/>
@@ -50,9 +50,9 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 
 ---
 
-### 🏙️ System Infrastructure Evolution
+### 🏙️ Sistem Altyapı Gelişimi
 
-**[ISO-VIEW]** - Geliştirme süreçlerinin ve sistem büyümesinin izometrik mimari görselleştirmesi.
+**[ISO-VIEW]** - Yazılım geliştirme süreçlerinin ve sistem büyümesinin izometrik mimari görselleştirmesi.
 
 <div align="center">
   <!-- 3D Şehir Animasyonu -->
@@ -63,13 +63,13 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 
 ### 📡 Stratejik Projeler
 
-*   **💹 TraderBot V3:** Python ve Asyncio ile geliştirilmiş borsa sinyal motoru.
-*   **📇 Kişi Rehberi:** PostgreSQL odaklı, Django ve Vue.js mimarisine sahip yönetim sistemi.
-*   **🌐 History Personas:** Custom routing içeren dinamik Single Page Application mimarisi.
+*   **💹 TraderBot V3:** Python ve Asyncio ile geliştirilmiş borsa sinyal analiz motoru.
+*   **📇 Kişi Rehberi:** PostgreSQL veri güvenliği odaklı, Django ve Vue.js mimarisine sahip kurumsal yönetim sistemi.
+*   **🌐 History Personas:** Custom client-side routing içeren dinamik Single Page Application çalışması.
 
 ---
 
-### 📫 Sistem Erişimi & İletişim
+### 📫 İletişim & Erişim
 
 <div align="center">
   <a href="mailto:mehmetcan.turan66@gmail.com">
@@ -84,5 +84,5 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-  <p><i>"Quality is not an act, it is a habit." — Engineered with Precision.</i></p>
+  <p><i>"Mükemmellik, eklenecek bir şey kalmadığında değil, çıkarılacak bir şey kalmadığında elde edilir."</i></p>
 </div>
