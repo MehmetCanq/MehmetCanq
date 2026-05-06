@@ -37,13 +37,7 @@ Karmaşık veri yapılarını ve yüksek performanslı backend mimarilerini mode
 
 <div align="center">
   <!-- Stabil parametrelerle güncellenmiş metrik kartları -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
   
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=dark&hide_border=true&title_color=00D1FF&bg_color=0d1117" />
-  
-  <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=dark&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" />
 </div>
