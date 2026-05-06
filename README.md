@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Dinamik Terminal Başlığı: Stabil ve Hızlı -->
+  <!-- Dinamik Terminal Başlığı -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=MEHMET+CAN+TURAN;SYSTEM+ARCHITECT;FINTECH+STRATEGIST;FULL-STACK+ENGINEER" alt="Typing SVG" />
 
   <p align="center">
@@ -36,20 +36,18 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 ### 📊 Global Sistem Metrikleri
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=FFFFFF" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <!-- Ana İstatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCanq&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF" />
+  
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" alt="GitHub Streak" />
+  <!-- Dil İstatistikleri -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanq&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" />
+  
+  <br/>
+
+  <!-- Aktivite Grafiği -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetCanq&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" />
 </div>
 
 ---
@@ -59,8 +57,8 @@ Karmaşık sistemlerin mimari tasarımı ve **Finansal Teknolojiler (FinTech)** 
 Aşağıdaki mimari, sistem üzerinde yaptığım her bir kodlamanın (commit) oluşturduğu dijital şehri temsil eder:
 
 <div align="center">
-  <!-- GitHub Action ile otomatik üretilen 3D Şehir Animasyonu -->
-  <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Architecture" width="100%" />
+  <!-- 3D Şehir Animasyonu: 'main' dalı üzerinden doğrudan erişim -->
+  <img src="https://raw.githubusercontent.com/MehmetCanq/MehmetCanq/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Architecture" />
 </div>
 
 ---
