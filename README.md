@@ -2,7 +2,7 @@
 
 <div align="center" style="border: 1px solid #00D1FF; padding: 20px; border-radius: 15px; background-color: #0d1117;">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=Mehmet+Can+TURAN;Senior+Software+Developer;Fintech+Strategist;Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=Mehmet+Can+TURAN;Junior+Software+Developer;Fintech+Strategist;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/DEVELOPER-POLYGLOT-00D1FF?style=for-the-badge&logo=codetriage&logoColor=black" />
